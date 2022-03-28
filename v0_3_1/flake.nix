@@ -11,7 +11,6 @@
   inputs.src-nimtetris-v0_3_1.ref   = "refs/tags/v0.3.1";
   inputs.src-nimtetris-v0_3_1.owner = "jiro4989";
   inputs.src-nimtetris-v0_3_1.repo  = "nimtetris";
-  inputs.src-nimtetris-v0_3_1.dir   = "";
   inputs.src-nimtetris-v0_3_1.type  = "github";
   
   inputs."illwill".owner = "nim-nix-pkgs";

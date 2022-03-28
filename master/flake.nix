@@ -11,7 +11,6 @@
   inputs.src-nimtetris-master.ref   = "refs/heads/master";
   inputs.src-nimtetris-master.owner = "jiro4989";
   inputs.src-nimtetris-master.repo  = "nimtetris";
-  inputs.src-nimtetris-master.dir   = "";
   inputs.src-nimtetris-master.type  = "github";
   
   inputs."illwill".owner = "nim-nix-pkgs";
